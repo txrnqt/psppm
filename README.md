@@ -1,4 +1,4 @@
-# psppm
+# psppm - playstation portable playlist maker
 
 A terminal UI tool for building `.m3u` playlists for the PSP's `MUSIC` folder. Point it at a directory of songs and albums, select what you want with the keyboard, and it packages a playlist file referencing them under `PSP\MUSIC\`.
 
